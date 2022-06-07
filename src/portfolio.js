@@ -706,7 +706,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others.",
-    link: "https://twitter.com/JoashMonda2",
+    link: "https://medium.com/@mondajoash43",
     avatar_image_path: "blogs_image.svg",
   },
 };

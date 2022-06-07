@@ -355,15 +355,6 @@ const certifications = {
       alt_name: "Opensource Event",
       color_code: "#fefd7b",
     },
-    // {
-    //   title: "MLH Local Hack Day: Build",
-    //   subtitle: "Major League Hacking",
-    //   logo_path: "mlh-logo.svg",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
-    //   alt_name: "Google",
-    //   color_code: "#fe0037",
-    // },
     {
       title: "English Certification",
       subtitle: "Emerssion Certification",

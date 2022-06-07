@@ -10,7 +10,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Joash",
+  title2: "Joash Monda",
   logo_name: "Joash.Monda()",
   full_name: "Joash Monda Mokaya",
   subTitle:

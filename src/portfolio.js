@@ -312,9 +312,9 @@ const certifications = {
       title: "Web Developer",
       subtitle: "Web Development Training",
       logo_path: "emobilis.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1r0hYt8Pp0N0u_4Tg-poMF1Qv3LkoKVAP/view",
-      alt_name: "eMobilis Mobile Tech",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1r0hYt8Pp0N0u_4Tg-poMF1Qv3LkoKVAP/view",
+      // alt_name: "eMobilis Mobile Tech",
       // color_code: "#2AAFED",
       color_code: "#2AAFED",
     },
@@ -350,18 +350,27 @@ const certifications = {
       title: "Machine Learning",
       subtitle: "Explore ML Intermediate Track",
       logo_path: "google.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1xvyy1M05lQN-s2VKw_Qvz6E7rPwrK2qm/view?usp=sharing",
-      alt_name: "Opensource Event",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1xvyy1M05lQN-s2VKw_Qvz6E7rPwrK2qm/view?usp=sharing",
+      // alt_name: "Opensource Event",
       color_code: "#fefd7b",
     },
+    // {
+    //   title: "MLH Local Hack Day: Build",
+    //   subtitle: "Major League Hacking",
+    //   logo_path: "mlh-logo.svg",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
+    //   alt_name: "Google",
+    //   color_code: "#fe0037",
+    // },
     {
       title: "English Certification",
       subtitle: "Emerssion Certification",
       logo_path: "english.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
-      alt_name: "Postman",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
+      // alt_name: "Postman",
       // color_code: "#f36c3d",
       color_code: "#fffbf3",
     },
@@ -369,27 +378,27 @@ const certifications = {
       title: "Data Analysis and Visualization",
       subtitle: "Shape AI",
       logo_path: "shape.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1KamrXJPTrF3zfMuEerbSnFUjOkt-agKT/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1KamrXJPTrF3zfMuEerbSnFUjOkt-agKT/view",
+      // alt_name: "Reply",
       color_code: "#2AAFED",
     },
     {
       title: "Campus Ambassador",
       subtitle: "Verzio Campus Ambassador India",
       logo_path: "verzio.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#2AAFED",
     },
     {
       title: "Industrial Training",
       subtitle: "90 Days of Training Kibabii",
       logo_path: "kibu.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
-      alt_name: "Postman",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
+      // alt_name: "Postman",
       // color_code: "#f36c3d",
       color_code: "#a60000",
     },
@@ -397,36 +406,36 @@ const certifications = {
       title: "Certified LinkedIn Marketing",
       subtitle: "LinkedIn Learning",
       logo_path: "linkedin.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#88e7ce",
     },
     {
       title: "Full-Stack Web Developer ",
       subtitle: "LinkedIn Learning",
       logo_path: "web.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#8C151599",
     },
     {
       title: "Build Amazing Websites",
       subtitle: "Udemy Learning",
       logo_path: "website.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#7A7A7A",
     },
     {
       title: "Python Bootcamp",
       subtitle: "Go Begginer to Expert Udemy Learning",
       logo_path: "python.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#0C9D5899",
     },
     {
@@ -442,18 +451,18 @@ const certifications = {
       title: "Git & Github Certification",
       subtitle: "Udemy Learning",
       logo_path: "git.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#ffc475",
     },
     {
       title: "HCIA Datacom Certification",
       subtitle: "Huawei",
       logo_path: "huawei.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
+      // alt_name: "Reply",
       color_code: "#ffbfae",
     },
     // color_code: "#8C151599",
@@ -480,100 +489,198 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "Technocolabs",
-          company_url: "https://technocolabs.com/",
-          logo_path: "Technocolabs.jfif",
-          duration: "Sept 2020 - Oct 2020",
+          title: "Freeelance Web Developer",
+          company: "Upwork",
+          company_url: "https://www.linkedin.com/in/joash-mokaya/",
+          logo_path: "upwork-logo.png",
+          duration: "Jan 2018 - Present",
           location: "Remote",
-          description: `Analysed the changes before and after people started using sanitizers using the covid-19 dataset. Built and analysed several predictive models for defaulting user’s credit card and deployed it on a full-stack website using Flask. Made a predictive model for Blood Donation for Future Expectancy and deployed it on a fully-fledged website. Increased productivity and problem-solving technics by 20%. 
-          `,
+          description: ` 
+        
+         Planned over 10 website development, converting mockups into usable web presence with HTML, 
+         JavaScript, AJAX, and JSON coding.
+         Provided front-end website development using WordPress, HubSpot, and other editing software.
+         Evaluated application software packages and made recommendations to management.
+         Wrote, analyzed, debugged, and delivered clean, validate, and maintainable codes.
+         Engaged with 5 clients to plan and optimize site issues and queries.
+         Generated web hosting presence to accommodate specified needs and maintain files on the 
+          account. `,
+        
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#0071C5",
+          color: "#FF3380",
         },
         {
-          title: "Data Science Intern",
-          company: "The Sparks Foundation",
-          company_url: "hhttps://thesparksfoundation.info/",
-          logo_path: "TSF.png",
-          duration: "Aug 2020 - Sept 2020",
+          title: "Social Media Marketing",
+          company: "Upwork",
+          company_url: "https://www.linkedin.com/in/joash-mokaya/",
+          logo_path: "upwork-logo.png",
+          duration: "March 2021 - March 2022",
           location: "Remote",
-          description: `Developed predictive models and deployed it on a full-stack website using Flask. Used Boxplot, Heatmap and Confusion Matrix for data visualization. Deep analysis on the superstore dataset using Bar Plots, Bar Charts, Pair Plots and Joint Plots for specific regions.
+          description: ` 
+        
+          Developed marketing content such as blogs, promotional materials, and advertisements for social 
+          media.
+          Analyzed and reported social media and online marketing campaign results.
+          Promoted successful outcome of web development strategy by aligning consistent brand messaging 
+          and visual designs across digital outlets.
+          Coached employees company-wide on content creation best practices.
+          Set clearly defined goals to drive customer retention, brand awareness, and website or social media 
+          traffic.
+          Identified target market and key segments through in-depth analysis of markets and related trends. `,
+        
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#33FF5B",
+        },
+        {
+          title: "Virtual Assistant",
+          company: "Upwork",
+          company_url: "https://www.linkedin.com/in/joash-mokaya/",
+          logo_path: "upwork-logo.png",
+          duration: "Jan 2021 - Jan 2022",
+          location: "Remote",
+          description: ` 
+ Managed electronic and paper filing systems by updating paperwork, maintaining documents, and 
+ accurately recording information.
+ Completed business correspondence, transcription, and data entry.
+ Analyzed and compiled data to prepare comprehensive reports for management.
+ Maintained supervisor's calendar and set up reminders for meetings and appointments.
+ Coordinated Skype calls across multiple time zones.
+ Researched topics and events to support the supervisor's work agenda and projects.
+ Wrote press releases and posted updates to social media.
+ Managed CRM input, exports and clean up.
+ Set up virtual Zoom meetings, invited guests, and disseminated agendas.
           `,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
-          color: "#ee3c26",
+          color: "#3386FF",
         },
+        {
+          title: "IT Assistant",
+          company: "Mombasa Law Court",
+          company_url: "https://www.linkedin.com/in/joash-mokaya/",
+          logo_path: "images.jfif",
+          duration: "Oct 2021 - Dec 2021",
+          location: "Remote",
+          description: ` 
+        
+ Reviewed system and network performance to make proactive adjustments based on established IT 
+ policies.
+ Maintained over 3 current software licenses and patched applications to stay up-to-date with the latest 
+ features.
+ Responded to queries on phone, via email, or through the IT ticketing system.
+ Generated project status reports for upper management review, demonstrating proficiency in Orange 
+ Software.
+ Gathered and translated project requirements and collaboratively worked to define scope and 
+ milestones.
+ Collaborated with other interns on the Mombasa archive project to meet program requirements and 
+ demonstrate skills development.
+ Helped streamline repair processes and update procedures for support action consistency.
+ Configured hardware, devices, and software to set up workstations for employees.
+ Maintained servers and systems to keep networks fully operational during peak periods.
+ Removed malware, ransomware, and other threats from laptops and desktop systems. 
+          
+          `,
+        
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#F6FF33",
+        },
+        {
+          title: "Web Developer",
+          company: "Web Wiz World",
+          company_url: "https://www.linkedin.com/in/joash-mokaya/",
+          logo_path: "Logo.gif",
+          duration: "June 2020 - May 2020",
+          location: "Remote",
+          description: ` 
+        
+          Planned website development, converting mockups into usable web presence with HTML, JavaScript, 
+          AJAX, and JSON coding.
+          Provided front-end website development using WordPress, Hubspot, and other editing software.
+          Provided security maintenance and patching on the website interface to maintain viability after launch.
+          Oversaw back-end development using PHP to maintain website integrity.
+          Generated web hosting presence to accommodate specified needs and maintain files on the account.
+          Coded websites using HTML, CSS, JavaScript, and jQuery languages.
+          Oversaw technical issues and troubleshooting requests to resolve user problems.
+          
+          `,
+        
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#061895",
+        }, 
+        {
+          title: "Software Developer",
+          company: "Web Wiz World",
+          company_url: "https://www.linkedin.com/in/joash-mokaya/",
+          logo_path: "Logo.gif",
+          duration: "Sept 2019 - Dec 2019",
+          location: "Remote",
+          description: ` 
+      
+           Updated old code bases to modern development standards, improving functionality.
+           Collaborated with project managers to select ambitiously, but realistic coding milestones on pre- 
+           release software project development.
+           Designed reusable and reliable code for use within distributed cloud environments.
+           Developed software for desktop and mobile operating systems.
+           Introduced agile methodologies and development best practices to division to enhance product 
+           development.
+           Coordinated with project management on database development timelines.
+           Documented technical workflows and knowledge to educate newly hired employees.
+           Collaborated on stages of the systems development lifecycle from requirement gathering to 
+           production releases.
+          
+          `,
+        
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#950688",
+        }, 
+
       ],
     },
     {
       title: "Volunteerships",
       experiences: [
         {
-          title: "R&D Member",
-          company: "Webarch Club",
-          company_url: "https://www.webarchsrm.com/",
-          logo_path: "Webarch.jfif",
-          duration: "Mar 2020 - Nov 2020",
-          location: "SRM IST Kattankulathur",
+          title: "Web Developer Mentor",
+          company: "eMobilis Mobile Tech",
+          company_url: "https://www.emobilis.ac.ke/",
+          logo_path: "emobilis-logo.jpg",
+          duration: "Jan 2022 - March 2022",
+          location: "Nairobi, Kenya",
           description:
-            "Member responsibilities were to help students in project planning, review issues and pull requests, ensure smooth progress and help juniors out in their difficulties.",
+            `
+             Pitched feature improvements to the developer team for use in applications.
+             Handled clerical duties for web development staff to keep the department running smoothly.
+             Troubleshoot and debugged code ensuring compatibility with devices, browsers, and operating 
+             systems.
+             Developed user interfaces with modern JavaScript frameworks, HTML5 and CSS3.
+             Maintained quality assurance through code testing and cross-browser testing.
+             Developed testing code for web-based applications.
+             Wrote custom HTML and JavaScript for existing websites.
+             `,
           color: "#4285F4",
         },
         {
           title: "Campus Leader",
-          company: "Code For Cause",
-          company_url: "https://www.codecau.se/",
-          logo_path: "CFC.jfif",
-          duration: "Nov 2020 - Present",
-          location: "SRM IST Kattankulathur",
+          company: "Kibabii University",
+          company_url: "https://kibu.ac.ke/",
+          logo_path: "leader_logo.png",
+          duration: "Jan 2020 - Jan 2021",
+          location: "Kibabii Bungoma",
           description:
-            "Held numerous workshops and distributed learning content for freshers. Contributed to development of the causefolio website displaying the information about the Code for Cause Community.",
+            "Held numerous workshops and distributed learning content for students. Contributed to development of the causefolio website displaying the information about the Code for Cause Community.",
           color: "#a60000",
         },
         {
-          title: "Machine Learning - Research associate",
-          company: "Next Tech Lab",
-          company_url: "https://nextech.io/",
-          logo_path: "NTL.jfif",
-          duration: "Oct 2020 - Present",
-          location: "SRM IST Kattankulathur",
-          description:
-            "Associate responsibilities were to build fast and efficient machine learning models, have talks on research topics related to computer vision and deep learning. Build team projects and intract with fellow members and ensure smooth progress and help juniors out in their difficulties.",
-          color: "#62cff0",
-        },
-        {
           title: "Campus Ambassador",
-          company: "Bagcampus",
+          company: "Verzio",
           company_url: "https://bagcampus.in/",
-          logo_path: "Bagcampus.jpg",
-          duration: "Dec 2020 - May 2021",
+          logo_path: "verzio.png",
+          duration: "Jan 2022 - April 2022",
           location: "Remote",
           description:
             "Spread Awareness of new Technologies and Companies and new Opportunities to Students and Grow Bagcampus Community.",
           color: "#0059c9",
         },
-        {
-          title: "Volunteer",
-          company: "Google Crowdsource",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "GCS.jfif",
-          duration: "Sept 2020 - Present",
-          location: "Remote",
-          description:
-            "As a member of the global Crowdsource community one can gain recognition from other Crowdsourcers and Google.",
-          color: "#ffffff",
-        },
-        {
-          title: "Student Volunteer",
-          company: "National Service Scheme",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "NSS.jfif",
-          duration: "Dec 2019 - May 2020",
-          location: "SRM IST Kattankulathur",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#282b6c",
-        },
+        
       ],
     },
   ],

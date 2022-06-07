@@ -347,8 +347,8 @@ const certifications = {
     //   color_code: "#47A048",
     // },
     {
-      title: "Machine Learning",
-      subtitle: "Explore ML Intermediate Track",
+      title: "Google",
+      subtitle: "Explore Machine Learning Intermediate Track",
       logo_path: "google.png",
       // certificate_link:
       //   "https://drive.google.com/file/d/1xvyy1M05lQN-s2VKw_Qvz6E7rPwrK2qm/view?usp=sharing",

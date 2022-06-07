@@ -557,7 +557,7 @@ const experience = {
           title: "IT Assistant",
           company: "Mombasa Law Court",
           company_url: "https://www.linkedin.com/in/joash-mokaya/",
-          logo_path: "images.jfif",
+          logo_path: "mombasa.jpg",
           duration: "Oct 2021 - Dec 2021",
           location: "Remote",
           description: ` 

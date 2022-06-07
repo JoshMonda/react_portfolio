@@ -492,7 +492,7 @@ const experience = {
           title: "Freeelance Web Developer",
           company: "Upwork",
           company_url: "https://www.linkedin.com/in/joash-mokaya/",
-          logo_path: "upwork-logo.png",
+          logo_path: "upwork.png",
           duration: "Jan 2018 - Present",
           location: "Remote",
           description: ` 
@@ -513,7 +513,7 @@ const experience = {
           title: "Social Media Marketing",
           company: "Upwork",
           company_url: "https://www.linkedin.com/in/joash-mokaya/",
-          logo_path: "upwork-logo.png",
+          logo_path: "upwork.png",
           duration: "March 2021 - March 2022",
           location: "Remote",
           description: ` 
@@ -535,7 +535,7 @@ const experience = {
           title: "Virtual Assistant",
           company: "Upwork",
           company_url: "https://www.linkedin.com/in/joash-mokaya/",
-          logo_path: "upwork-logo.png",
+          logo_path: "upwork.png",
           duration: "Jan 2021 - Jan 2022",
           location: "Remote",
           description: ` 
@@ -672,12 +672,12 @@ const experience = {
         {
           title: "Campus Ambassador",
           company: "Verzio",
-          company_url: "https://bagcampus.in/",
+          company_url: "https://verzeo.com/",
           logo_path: "verzio.png",
           duration: "Jan 2022 - April 2022",
           location: "Remote",
           description:
-            "Spread Awareness of new Technologies and Companies and new Opportunities to Students and Grow Bagcampus Community.",
+            "Spread Awareness of new Technologies and Companies and new Opportunities to Students and Grow Verzio Campus Community.",
           color: "#0059c9",
         },
         
@@ -742,19 +742,19 @@ const projects = {
         },
       ],
     },
-    {
-      id: "1",
-      name: "Youtube Downloader",
-      url: "https://github.com/JoshMonda/",
-      description:
-        "A desktop GUI which can be used to download youtube videos and playlist with desired quality and type on desktop.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
+    // {
+    //   id: "1",
+    //   name: "Youtube Downloader",
+    //   url: "https://github.com/JoshMonda/",
+    //   description:
+    //     "A desktop GUI which can be used to download youtube videos and playlist with desired quality and type on desktop.",
+    //   languages: [
+    //     {
+    //       name: "Python",
+    //       iconifyClass: "logos-python",
+    //     },
+    //   ],
+    // },
     {
       id: "2",
       name: "Tune In",
@@ -778,10 +778,10 @@ const projects = {
           name: "ReactJS",
           iconifyClass: "logos-react",
         },
-        {
-          name: "Django",
-          iconifyClass: "logos-django",
-        },
+        // {
+        //   name: "Django",
+        //   iconifyClass: "logos-django",
+        // },
       ],
     },
     {
@@ -880,47 +880,47 @@ const projects = {
         },
       ],
     },
-    {
-      id: "6",
-      name: "Tetris",
-      url: "https://github.com/JoshMonda",
-      description: "Made a GUI based arcade game Tetris using pygame.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      id: "7",
-      name: "Steganography",
-      url: "https://github.com/JoshMonda",
-      description:
-        "A CLI tool to conceal messages within a file, text, image, or video.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "OpenCV",
-          iconifyClass: "logos-opencv",
-        },
-      ],
-    },
-    {
-      id: "8",
-      name: "Mini Paint",
-      url: "https://github.com/JoshMonda",
-      description: "GUI based Mini Paint Application.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
+    // {
+    //   id: "6",
+    //   name: "Tetris",
+    //   url: "https://github.com/JoshMonda",
+    //   description: "Made a GUI based arcade game Tetris using pygame.",
+    //   languages: [
+    //     {
+    //       name: "Python",
+    //       iconifyClass: "logos-python",
+    //     },
+    //   ],
+    // },
+    // {
+    //   id: "7",
+    //   name: "Steganography",
+    //   url: "https://github.com/JoshMonda",
+    //   description:
+    //     "A CLI tool to conceal messages within a file, text, image, or video.",
+    //   languages: [
+    //     {
+    //       name: "Python",
+    //       iconifyClass: "logos-python",
+    //     },
+    //     {
+    //       name: "OpenCV",
+    //       iconifyClass: "logos-opencv",
+    //     },
+    //   ],
+    // },
+    // {
+    //   id: "8",
+    //   name: "Mini Paint",
+    //   url: "https://github.com/JoshMonda",
+    //   description: "GUI based Mini Paint Application.",
+    //   languages: [
+    //     {
+    //       name: "Python",
+    //       iconifyClass: "logos-python",
+    //     },
+    //   ],
+    // },
     {
       id: "9",
       name: "Speedtest",
@@ -934,23 +934,23 @@ const projects = {
         },
       ],
     },
-    {
-      id: "10",
-      name: "Cat Classifier",
-      url: "https://github.com/JoshMonda",
-      description:
-        "Binary Cat Classifier made by hard coding Neural Networks in Python without using libraries such as Tensorflow or keras.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
+    // {
+    //   id: "10",
+    //   name: "Cat Classifier",
+    //   url: "https://github.com/JoshMonda",
+    //   description:
+    //     "Binary Cat Classifier made by hard coding Neural Networks in Python without using libraries such as Tensorflow or keras.",
+    //   languages: [
+    //     {
+    //       name: "Python",
+    //       iconifyClass: "logos-python",
+    //     },
+    //     {
+    //       name: "Jupyter Notebook",
+    //       iconifyClass: "logos-jupyter",
+    //     },
+    //   ],
+    // },
     {
       id: "11",
       name: "Snake",

@@ -716,7 +716,7 @@ const projects = {
     {
       id: "0",
       name: "Mind Space",
-      url: "https://www.mindspace.cf/",
+      // url: "https://www.mindspace.cf/",
       description:
         "This is Blogging website where users can create blogs, follow and unfollow other users, get summarized blog reccomendation on their dashboard and have a personalised searching mechanism.",
       languages: [
@@ -967,7 +967,7 @@ const projects = {
     {
       id: "12",
       name: "Score Predictor",
-      url: "https://score-predictor-app.herokuapp.com/",
+      // url: "https://score-predictor-app.herokuapp.com/",
       description:
         "Predicts students score based on the number of hours the student puts in it.",
       languages: [
@@ -1000,7 +1000,7 @@ const projects = {
     {
       id: "13",
       name: "Blood Donation Predictor",
-      url: "https://blood-donation-predictor-app.herokuapp.com/",
+      // url: "https://blood-donation-predictor-app.herokuap.com/",
       description:
         "Predicts if one is ready to donate blood based on the user's blood donation history.",
       languages: [
@@ -1025,7 +1025,7 @@ const projects = {
     {
       id: "14",
       name: "Credit-Card Default Predictor",
-      url: "https://default-predictor-app.herokuapp.com/",
+      // url: "https://default-predictor-app.herokuapp.com/",
       description:
         "Predicts whether user's credit card would be defaulted or not based on the user's bank statements and history.",
       languages: [

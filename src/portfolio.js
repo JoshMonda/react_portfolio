@@ -25,10 +25,9 @@ const socialMediaLinks = {
   github: "https://github.com/JoshMonda",
   linkedin: "https://www.linkedin.com/in/joash-mokaya/",
   gmail: "mondajoash43@gmail.com",
-  // gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/profile.php?id=100083907844094",
   twitter: "https://twitter.com/JoashMonda2",
-  twitter: "#",
+  //twitter: "#",
 };
 
 const skills = {
@@ -38,7 +37,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive User Interfaces and Backend for web applications",
-        "⚡ Building responsive website front end using ReactJS",
+        "⚡ Building responsive website front end using ReactJS, Wordpress, Wix Drupal, etc",
         "⚡ Creating application backend in Node, Laravel and Fast-API",
         "⚡ Integration of third party services such as Firebase",
       ],
@@ -100,16 +99,16 @@ const skills = {
             color: "#000000",
           },
         },
-        // {
-        //   skillName: "Django",
-        //   fontAwesomeClassname: "simple-icons:django",
-        //   style: {
-        //     color: "#0c4b33",
-        //   },
-        // },
+         {
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
+          style: {
+          color: "#0c4b33",
+           },
+        },
         {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
+          skillName: "WIX",
+          fontAwesomeClassname: "simple-icons:wix",
           style: {
             color: "#439743",
           },

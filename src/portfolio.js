@@ -14,9 +14,9 @@ const greeting = {
   logo_name: "Joash.Monda()",
   full_name: "Joash Monda Mokaya",
   subTitle:
-    "Full Stack Developer, Senior IT Expert, Virtual Assistant, Data Analyst, Professional CV Writer, Social Media Marketer.",
+    "Full-Stack Web Developer, Senior IT Expert, Virtual Assistant, Data Analyst, Professional CV Writer, Social Media Marketer,.",
   resumeLink:
-    "https://drive.google.com/file/d/1Iv6xGxZHusnKRw5z0liXypYZu-9Z6d2L/view?usp=sharing",
+    "https://drive.google.com/file/d/1fnAaiiKAbsVYFAeBVCaBcQxj0sSmlrY2/view?usp=sharing",
   mail: "mailto:mondajoash43@gmail.com",
 };
 
@@ -26,9 +26,9 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/joash-mokaya/",
   gmail: "mondajoash43@gmail.com",
   // gitlab: "https://gitlab.com/harikanani",
-  facebook: "#",
+  facebook: "https://www.facebook.com/profile.php?id=100083907844094",
   twitter: "https://twitter.com/JoashMonda2",
-  instagram: "#",
+  twitter: "#",
 };
 
 const skills = {
@@ -156,13 +156,13 @@ const skills = {
             color: "#000000",
           },
         },
-        // {
-        //   skillName: "MySQL",
-        //   fontAwesomeClassname: "simple-icons:mysql",
-        //   style: {
-        //     color: "#4479A1",
-        //   },
-        // },
+         {
+           skillName: "Wix",
+           fontAwesomeClassname: "simple-icons:mysql",
+           style: {
+            color: "#4479A1",
+          },
+         },
         // {
         //   skillName: "jQuery",
         //   fontAwesomeClassname: "simple-icons:jquery",
@@ -715,10 +715,10 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "Mind Space",
-      // url: "https://www.mindspace.cf/",
+      name: "Connektcar",
+      url: "https://connektcar.herokuapp.com/login",
       description:
-        "This is Blogging website where users can create blogs, follow and unfollow other users, get summarized blog reccomendation on their dashboard and have a personalised searching mechanism.",
+        "This is website where users can hire cars on their daily activities",
       languages: [
         {
           name: "HTML5",
@@ -733,13 +733,13 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "React",
+          iconifyClass: "logos-react",
         },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
-        },
+        // {
+        //   name: "Flask",
+        //   iconifyClass: "cib-flask",
+        // },
       ],
     },
     // {
@@ -757,10 +757,10 @@ const projects = {
     // },
     {
       id: "2",
-      name: "Tune In",
-      url: "https://github.com/JoshMonda",
+      name: "Weber Works LTD",
+      url: "https://weberworksltd.com/",
       description:
-        "Tune in is a collaborative music playing system where multiple guests can join a room and enjoy the song being played. Guests can pause and vote to skip the current song.",
+        "This website is for the Weber Works Limited company that supply water and drilling of boheholes",
       languages: [
         {
           name: "HTML5",
@@ -775,8 +775,8 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
+          name: "Wordpress",
+          iconifyClass: "logos-wordpress",
         },
         // {
         //   name: "Django",
@@ -786,10 +786,10 @@ const projects = {
     },
     {
       id: "3",
-      name: "Event Scheduler",
-      url: "https://github.com/JoshMonda",
+      name: "Motorify",
+      url: "https://motorify.netlify.app/",
       description:
-        "It is an all-purpose scheduler software. It is designed to monitor all the activities and give appropriate reminders for them.",
+        "Booking cars website, you can filter cars from year, make and Model that you want to book or filter.",
       languages: [
         {
           name: "HTML5",
@@ -804,37 +804,17 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
+          name: "React Js",
+          iconifyClass: "logos-react",
         },
       ],
     },
     {
       id: "4",
-      name: "Movie Reccomendation System",
-      url: "https://github.com/JoshMonda",
+      name: "dhmnazarethschool",
+      url: "https://www.dhmnazarethschool.org/",
       description:
-        "Made three python kernels explaining and implementing the three different types of movie recommender systems.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      id: "3",
-      name: "Login Authenticator",
-      url: "https://github.com/JoshMonda",
-      description: "Made a template for a Login Authenticator using Flask ",
+        "Made with Wordpress for dhmnazarethschools.",
       languages: [
         {
           name: "HTML5",
@@ -845,25 +825,53 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
+          name: "WordPress",
+          iconifyClass: "logos-wordpress",
         },
       ],
     },
     {
-      id: "4",
-      name: "Calculator",
-      url: "https://github.com/JoshMonda",
-      description:
-        "Made a GUI based Calculator. Also made an executable file for the project which can be downloaded and used by anyone on their personal computer.",
+      id: "3",
+      name: "Pacific Nursing",
+      url: "https://pacificnursing.tech/",
+      description: "Made  with WordPress ",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "WordPress",
+          iconifyClass: "logos-wordpress",
+        },
+        // {
+        //   name: "Flask",
+        //   iconifyClass: "cib-flask",
+        // },
+      ],
+    },
+    {
+      id: "4",
+      name: "Belief Training Institute",
+      url: "https://www.btiworld.org/",
+      description:
+        "Made with Wix",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Wix",
+          iconifyClass: "logos-wix",
         },
       ],
     },

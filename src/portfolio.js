@@ -37,7 +37,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive User Interfaces and Backend for web applications",
-        "⚡ Building responsive website front end using ReactJS, Wordpress, Wix Drupal, etc",
+        "⚡ Building responsive website front end using ReactJS, Wordpress, Wix",
         "⚡ Creating application backend in Node, Laravel and Fast-API",
         "⚡ Integration of third party services such as Firebase",
       ],
@@ -99,16 +99,16 @@ const skills = {
             color: "#000000",
           },
         },
-         {
-          skillName: "Django",
-          fontAwesomeClassname: "simple-icons:django",
-          style: {
-          color: "#0c4b33",
-           },
-        },
+        // {
+        //   skillName: "Django",
+        //   fontAwesomeClassname: "simple-icons:django",
+        //   style: {
+        //     color: "#0c4b33",
+        //   },
+        // },
         {
-          skillName: "WIX",
-          fontAwesomeClassname: "simple-icons:wix",
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#439743",
           },

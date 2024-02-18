@@ -760,25 +760,27 @@ const projects = {
           name: "Wordpress",
           iconifyClass: "logos-wordpress",
         },
-        // {
-        //   name: "Flask",
-        //   iconifyClass: "cib-flask",
-        // },
+       {
+      id: "1",
+      name: "Belief Training Institute",
+      url: "https://www.btiworld.org/",
+      description:
+        "Made with Wix",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Wix",
+          iconifyClass: "logos-wix",
+        },
       ],
     },
-    // {
-    //   id: "1",
-    //   name: "Youtube Downloader",
-    //   url: "https://github.com/JoshMonda/",
-    //   description:
-    //     "A desktop GUI which can be used to download youtube videos and playlist with desired quality and type on desktop.",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //   ],
-    // },
     {
       id: "2",
       name: "SUCCESS AFRICA",
@@ -876,27 +878,6 @@ const projects = {
         //   name: "Flask",
         //   iconifyClass: "cib-flask",
         // },
-      ],
-    },
-    {
-      id: "1",
-      name: "Belief Training Institute",
-      url: "https://www.btiworld.org/",
-      description:
-        "Made with Wix",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "Wix",
-          iconifyClass: "logos-wix",
-        },
       ],
     },
     {

@@ -301,7 +301,7 @@ const degrees = {
       alt_name: "",
       duration: "2017 - 2022",
       descriptions: [
-        // "⚡  I'm currently pursuing my Bachelors in Computer Science and Engineering.",
+        "⚡  I'm currently pursuing my Bachelors in Computer Science and Engineering.",
         "⚡ I studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ Elected SCAI Academic Nominee for Student Organization of Kibabii University (SOKU) in the 2020/2021 academic year ",
@@ -786,18 +786,31 @@ const projects = {
         { name: "React Js", iconifyClass: "logos-react" },
       ],
     },
-    {
-      id: "4",
-      name: "Pacific Nursing",
-      url: "https://pacificnursing.tech/",
+       {
+      id: "3",
+      name: "Motorify",
+      url: "https://motorify.netlify.app/",
       description:
-        "Pacific Nursing is a Vendor Management System (VMS) providing healthcare facilities with per diem, permanent, temporary and/or contractual placements of qualified & vetted healthcare professionals from a network of independently owned and operated medical staffing agencies since 2018.",
+        "Booking cars website, you can filter cars from year, make and Model that you want to book or filter.",
       languages: [
         { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
         { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
-        { name: "WordPress", iconifyClass: "logos-wordpress" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "React Js", iconifyClass: "logos-react" },
       ],
     },
+    // {
+    //   id: "4",
+    //   name: "Pacific Nursing",
+    //   url: "https://pacificnursing.tech/",
+    //   description:
+    //     "Pacific Nursing is a Vendor Management System (VMS) providing healthcare facilities with per diem, permanent, temporary and/or contractual placements of qualified & vetted healthcare professionals from a network of independently owned and operated medical staffing agencies since 2018.",
+    //   languages: [
+    //     { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+    //     { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+    //     { name: "WordPress", iconifyClass: "logos-wordpress" },
+    //   ],
+    // },
     {
       id: "5",
       name: "Notepad",

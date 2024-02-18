@@ -760,7 +760,7 @@ const projects = {
           name: "Wordpress",
           iconifyClass: "logos-wordpress",
         },
-        ];
+        ],
     },
     
        {

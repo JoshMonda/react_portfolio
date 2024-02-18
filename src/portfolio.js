@@ -714,10 +714,10 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "Connektcar",
-      url: "https://connektcar.herokuapp.com/login",
+      name: "AAPOSTOLIC FAITH ASSEMBLY",
+      url: "https://apostolicfaithassembly.org/",
       description:
-        "This is website where users can hire cars on their daily activities",
+        "To cultivate a vibrant, spiritually nourishing community that adheres to the teachings of Jesus as guided by the Apostles. Our mission is to create an environment where faith is deepened, and individual spiritual journeys are supported.",
       languages: [
         {
           name: "HTML5",
@@ -732,8 +732,8 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
-          name: "React",
-          iconifyClass: "logos-react",
+          name: "Wordpress",
+          iconifyClass: "logos-wordpress",
         },
         // {
         //   name: "Flask",
@@ -756,10 +756,10 @@ const projects = {
     // },
     {
       id: "2",
-      name: "Weber Works LTD",
-      url: "https://weberworksltd.com/",
+      name: "SUCCESS AFRICA",
+      url: "https://successafrika.com/",
       description:
-        "This website is for the Weber Works Limited company that supply water and drilling of boheholes",
+        "Africa: Resilience, Innovation, and Prosperous Future",
       languages: [
         {
           name: "HTML5",
@@ -810,10 +810,10 @@ const projects = {
     },
     {
       id: "4",
-      name: "dhmnazarethschool",
-      url: "https://www.dhmnazarethschool.org/",
+      name: "Pacific Nursing",
+      url: "https://pacificnursing.tech/",
       description:
-        "Made with Wordpress for dhmnazarethschools.",
+        "Pacific Nursing is a Vendor Management System (VMS) providing healthcare facilities with per diem, permanent, temporary and/or contractual placements of qualified & vetted healthcare professionals from a network of independently owned and operated medical staffing agencies since 2018.",
       languages: [
         {
           name: "HTML5",
@@ -829,24 +829,24 @@ const projects = {
         },
       ],
     },
-    {
-      id: "3",
-      name: "Pacific Nursing",
-      url: "https://pacificnursing.tech/",
-      description: "Made  with WordPress ",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "WordPress",
-          iconifyClass: "logos-wordpress",
-        },
+    // {
+    //   id: "3",
+    //   name: "Pacific Nursing",
+    //   url: "https://pacificnursing.tech/",
+    //   description: "Made  with WordPress ",
+    //   languages: [
+    //     {
+    //       name: "HTML5",
+    //       iconifyClass: "vscode-icons:file-type-html",
+    //     },
+    //     {
+    //       name: "CSS3",
+    //       iconifyClass: "vscode-icons:file-type-css",
+    //     },
+    //     {
+    //       name: "WordPress",
+    //       iconifyClass: "logos-wordpress",
+    //     },
         // {
         //   name: "Flask",
         //   iconifyClass: "cib-flask",

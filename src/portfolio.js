@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "Full-Stack Web Developer, Senior IT Expert, Virtual Assistant, Data Analyst, Professional CV Writer, Social Media Marketer,.",
   resumeLink:
-    "https://drive.google.com/file/d/1fnAaiiKAbsVYFAeBVCaBcQxj0sSmlrY2/view?usp=sharing",
+    "https://drive.google.com/file/d/1OSHsW2snhSGB4Ds_2LqxKMXWHr9V2Klj/view?usp=sharing",
   mail: "mailto:mondajoash43@gmail.com",
 };
 

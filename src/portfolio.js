@@ -739,10 +739,10 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "AAPOSTOLIC FAITH ASSEMBLY",
+      name: "APOSTOLIC FAITH ASSEMBLY",
       url: "https://apostolicfaithassembly.org/",
       description:
-        "To cultivate a vibrant, spiritually nourishing community that adheres to the teachings of Jesus as guided by the Apostles. Our mission is to create an environment where faith is deepened, and individual spiritual journeys are supported.",
+        "To cultivate a vibrant, spiritually nourishing community that adheres to the teachings of Jesus as guided by the Apostles.",
       languages: [
         { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
         { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
@@ -799,18 +799,18 @@ const projects = {
         { name: "React Js", iconifyClass: "logos-react" },
       ],
     },
-    // {
-    //   id: "4",
-    //   name: "Pacific Nursing",
-    //   url: "https://pacificnursing.tech/",
-    //   description:
-    //     "Pacific Nursing is a Vendor Management System (VMS) providing healthcare facilities with per diem, permanent, temporary and/or contractual placements of qualified & vetted healthcare professionals from a network of independently owned and operated medical staffing agencies since 2018.",
-    //   languages: [
-    //     { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
-    //     { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
-    //     { name: "WordPress", iconifyClass: "logos-wordpress" },
-    //   ],
-    // },
+    {
+      id: "4",
+      name: "Pacific Nursing",
+      url: "https://pacificnursing.tech/",
+      description:
+        "Pacific Nursing is a Vendor Management System (VMS)",
+      languages: [
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "WordPress", iconifyClass: "logos-wordpress" },
+      ],
+    },
     {
       id: "5",
       name: "Notepad",

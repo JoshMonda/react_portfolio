@@ -280,7 +280,6 @@ const skills = {
             color: "#47A248",
           },
         },
-      ?
         {
           skillName: "GitHub Actions",
           fontAwesomeClassname: "simple-icons:githubactions",

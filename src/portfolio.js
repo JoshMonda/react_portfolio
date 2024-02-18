@@ -760,27 +760,31 @@ const projects = {
           name: "Wordpress",
           iconifyClass: "logos-wordpress",
         },
+        ];
+    },
+    
        {
-    //   id: "1",
-    //   name: "Belief Training Institute",
-    //   url: "https://www.btiworld.org/",
-    //   description:
-    //     "Made with Wix",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "Wix",
-    //       iconifyClass: "logos-wix",
-    //     },
+      id: "1",
+      name: "Belief Training Institute",
+      url: "https://www.btiworld.org/",
+      description:
+        "Made with Wix",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Wix",
+          iconifyClass: "logos-wix",
+        },
       ],
     },
+         
     {
       id: "2",
       name: "SUCCESS AFRICA",
@@ -810,6 +814,7 @@ const projects = {
         // },
       ],
     },
+        
     {
       id: "3",
       name: "Motorify",

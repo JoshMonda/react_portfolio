@@ -723,7 +723,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile.png",
+    profile_image_path: "IMG-20240204-WA0222.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },

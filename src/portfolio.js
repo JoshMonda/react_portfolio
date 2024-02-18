@@ -744,77 +744,35 @@ const projects = {
       description:
         "To cultivate a vibrant, spiritually nourishing community that adheres to the teachings of Jesus as guided by the Apostles. Our mission is to create an environment where faith is deepened, and individual spiritual journeys are supported.",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "Wordpress",
-          iconifyClass: "logos-wordpress",
-        },
-        ],
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Wordpress", iconifyClass: "logos-wordpress" },
+      ],
     },
-    
-       {
+    {
       id: "1",
       name: "Belief Training Institute",
       url: "https://www.btiworld.org/",
-      description:
-        "Made with Wix",
+      description: "Made with Wix",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "Wix",
-          iconifyClass: "logos-wix",
-        },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "Wix", iconifyClass: "logos-wix" },
       ],
     },
-         
     {
       id: "2",
       name: "SUCCESS AFRICA",
       url: "https://successafrika.com/",
-      description:
-        "Africa: Resilience, Innovation, and Prosperous Future",
+      description: "Africa: Resilience, Innovation, and Prosperous Future",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "Wordpress",
-          iconifyClass: "logos-wordpress",
-        },
-        // {
-        //   name: "Django",
-        //   iconifyClass: "logos-django",
-        // },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Wordpress", iconifyClass: "logos-wordpress" },
       ],
     },
-        
     {
       id: "3",
       name: "Motorify",
@@ -822,22 +780,10 @@ const projects = {
       description:
         "Booking cars website, you can filter cars from year, make and Model that you want to book or filter.",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "React Js",
-          iconifyClass: "logos-react",
-        },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "React Js", iconifyClass: "logos-react" },
       ],
     },
     {
@@ -847,42 +793,9 @@ const projects = {
       description:
         "Pacific Nursing is a Vendor Management System (VMS) providing healthcare facilities with per diem, permanent, temporary and/or contractual placements of qualified & vetted healthcare professionals from a network of independently owned and operated medical staffing agencies since 2018.",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "WordPress",
-          iconifyClass: "logos-wordpress",
-        },
-      ],
-    },
-    // {
-    //   id: "3",
-    //   name: "Pacific Nursing",
-    //   url: "https://pacificnursing.tech/",
-    //   description: "Made  with WordPress ",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "WordPress",
-    //       iconifyClass: "logos-wordpress",
-    //     },
-        // {
-        //   name: "Flask",
-        //   iconifyClass: "cib-flask",
-        // },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "WordPress", iconifyClass: "logos-wordpress" },
       ],
     },
     {
@@ -891,174 +804,59 @@ const projects = {
       url: "https://github.com/JoshMonda",
       description:
         "Made a GUI based Notepad. Also made an executable file for the project which can be downloaded and used by anyone on their personal computer.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
+      languages: [{ name: "Python", iconifyClass: "logos-python" }],
     },
-    // {
-    //   id: "6",
-    //   name: "Tetris",
-    //   url: "https://github.com/JoshMonda",
-    //   description: "Made a GUI based arcade game Tetris using pygame.",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "7",
-    //   name: "Steganography",
-    //   url: "https://github.com/JoshMonda",
-    //   description:
-    //     "A CLI tool to conceal messages within a file, text, image, or video.",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //     {
-    //       name: "OpenCV",
-    //       iconifyClass: "logos-opencv",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "8",
-    //   name: "Mini Paint",
-    //   url: "https://github.com/JoshMonda",
-    //   description: "GUI based Mini Paint Application.",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //   ],
-    // },
     {
       id: "9",
       name: "Speedtest",
       url: "https://github.com/JoshMonda",
       description:
         "An internet speed testing application which can notify about the download speed, upload speed, and also the reaction time of the connection.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
+      languages: [{ name: "Python", iconifyClass: "logos-python" }],
     },
-    // {
-    //   id: "10",
-    //   name: "Cat Classifier",
-    //   url: "https://github.com/JoshMonda",
-    //   description:
-    //     "Binary Cat Classifier made by hard coding Neural Networks in Python without using libraries such as Tensorflow or keras.",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //     {
-    //       name: "Jupyter Notebook",
-    //       iconifyClass: "logos-jupyter",
-    //     },
-    //   ],
-    // },
     {
       id: "11",
       name: "Snake",
       url: "https://github.com/JoshMonda",
       description:
         "A snake game which covers all the basic features like score, high score and an automated speed increase simultaneously when the snake eats the food.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
+      languages: [{ name: "Python", iconifyClass: "logos-python" }],
     },
     {
       id: "12",
       name: "Score Predictor",
-      // url: "https://score-predictor-app.herokuapp.com/",
       description:
         "Predicts students score based on the number of hours the student puts in it.",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Python", iconifyClass: "logos-python" },
+        { name: "Flask", iconifyClass: "cib-flask" },
+        { name: "Jupyter Notebook", iconifyClass: "logos-jupyter" },
       ],
     },
     {
       id: "13",
       name: "Blood Donation Predictor",
-      // url: "https://blood-donation-predictor-app.herokuap.com/",
       description:
         "Predicts if one is ready to donate blood based on the user's blood donation history.",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "Python", iconifyClass: "logos-python" },
+        { name: "Jupyter Notebook", iconifyClass: "logos-jupyter" },
       ],
     },
     {
       id: "14",
       name: "Credit-Card Default Predictor",
-      // url: "https://default-predictor-app.herokuapp.com/",
       description:
         "Predicts whether user's credit card would be defaulted or not based on the user's bank statements and history.",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "Python", iconifyClass: "logos-python" },
+        { name: "Jupyter Notebook", iconifyClass: "logos-jupyter" },
       ],
     },
     {
@@ -1067,22 +865,10 @@ const projects = {
       url: "https://github.com/JoshMonda",
       description: "You are stalking it right now 😉",
       languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "ReactJS", iconifyClass: "logos-react" },
       ],
     },
   ],

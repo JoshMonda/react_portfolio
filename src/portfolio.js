@@ -14,7 +14,7 @@ const greeting = {
   logo_name: "Joash.Monda()",
   full_name: "Joash Monda Mokaya",
   subTitle:
-    "Full-Stack Web Developer, Senior IT Expert, Virtual Assistant, Data Analyst, Professional CV Writer, Social Media Marketer,.",
+    "Full-Stack Web Developer || Virtual Assistant || Automation Expert || Graphic Designer || Social Media Marketer || Content Writer.",
   resumeLink:
     "https://drive.google.com/file/d/1OSHsW2snhSGB4Ds_2LqxKMXWHr9V2Klj/view?usp=sharing",
   mail: "mailto:mondajoash43@gmail.com",

@@ -779,8 +779,8 @@ const projects = {
     //       name: "Wix",
     //       iconifyClass: "logos-wix",
     //     },
-    //   ],
-    // },
+      ],
+    },
     {
       id: "2",
       name: "SUCCESS AFRICA",

@@ -220,6 +220,16 @@ const skills = {
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Experience hosting and managing websites",
         "⚡ Experience with Continuous Integration",
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Experience hosting and managing websites,"
+        "⚡ Experience with Continuous Integration,"
+        "⚡ Proficient in cloud security best practices and compliance standards,"
+        "⚡ Skilled in cloud resource optimization for cost-effective solutions,"
+        "⚡ Adept in deploying scalable and resilient cloud infrastructure,"
+        "⚡ Experienced in automating cloud deployments with tools like Terraform and Ansible,"
+        "⚡ Knowledgeable in containerization technologies like Docker and Kubernetes,"
+        "⚡ Proficient in monitoring, logging, and troubleshooting cloud environments,"
+        "⚡ Familiarity with cloud-native application development principles,"
       ],
       softwareSkills: [
         {
@@ -264,13 +274,7 @@ const skills = {
             color: "#47A248",
           },
         },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
+      ?
         {
           skillName: "GitHub Actions",
           fontAwesomeClassname: "simple-icons:githubactions",
@@ -297,8 +301,8 @@ const degrees = {
         "⚡ I also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ Elected SCAI Academic Nominee for Student Organization of Kibabii University (SOKU) in the 2020/2021 academic year ",
         "⚡ Treasurer Ajira Digital Clubc.",
-        "⚡ Member of Developer's Student Club (DSC).",
-        "⚡ Received Web Development Scholarship with Mobilis",
+        "⚡ Member of Google Developer Student Club (DSC).",
+        "⚡ Received Web Development Scholarship with eMobilis",
       ],
       website_link: "https://kibu.ac.ke",
     },
@@ -496,14 +500,14 @@ const experience = {
           location: "Remote",
           description: ` 
         
-         Planned over 10 website development, converting mockups into usable web presence with HTML, 
-         JavaScript, AJAX, and JSON coding.
-         Provided front-end website development using WordPress, HubSpot, and other editing software.
-         Evaluated application software packages and made recommendations to management.
-         Wrote, analyzed, debugged, and delivered clean, validate, and maintainable codes.
-         Engaged with 5 clients to plan and optimize site issues and queries.
-         Generated web hosting presence to accommodate specified needs and maintain files on the 
-          account. `,
+           Planned over 10 website development, converting mockups into usable web presence with HTML, 
+           JavaScript, AJAX, and JSON coding.
+           Provided front-end website development using WordPress, HubSpot, and other editing software.
+           Evaluated application software packages and made recommendations to management.
+           Wrote, analyzed, debugged, and delivered clean, validate, and maintainable codes.
+           Engaged with 5 clients to plan and optimize site issues and queries.
+           Generated web hosting presence to accommodate specified needs and maintain files on the 
+            account. `,
         
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#FF3380",
@@ -538,16 +542,16 @@ const experience = {
           duration: "Jan 2021 - Jan 2022",
           location: "Remote",
           description: ` 
- Managed electronic and paper filing systems by updating paperwork, maintaining documents, and 
- accurately recording information.
- Completed business correspondence, transcription, and data entry.
- Analyzed and compiled data to prepare comprehensive reports for management.
- Maintained supervisor's calendar and set up reminders for meetings and appointments.
- Coordinated Skype calls across multiple time zones.
- Researched topics and events to support the supervisor's work agenda and projects.
- Wrote press releases and posted updates to social media.
- Managed CRM input, exports and clean up.
- Set up virtual Zoom meetings, invited guests, and disseminated agendas.
+           Managed electronic and paper filing systems by updating paperwork, maintaining documents, and 
+           accurately recording information.
+           Completed business correspondence, transcription, and data entry.
+           Analyzed and compiled data to prepare comprehensive reports for management.
+           Maintained supervisor's calendar and set up reminders for meetings and appointments.
+           Coordinated Skype calls across multiple time zones.
+           Researched topics and events to support the supervisor's work agenda and projects.
+           Wrote press releases and posted updates to social media.
+           Managed CRM input, exports and clean up.
+           Set up virtual Zoom meetings, invited guests, and disseminated agendas.
           `,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#3386FF",
@@ -560,23 +564,23 @@ const experience = {
           duration: "Oct 2021 - Dec 2021",
           location: "Remote",
           description: ` 
-        
- Reviewed system and network performance to make proactive adjustments based on established IT 
- policies.
- Maintained over 3 current software licenses and patched applications to stay up-to-date with the latest 
- features.
- Responded to queries on phone, via email, or through the IT ticketing system.
- Generated project status reports for upper management review, demonstrating proficiency in Orange 
- Software.
- Gathered and translated project requirements and collaboratively worked to define scope and 
- milestones.
- Collaborated with other interns on the Mombasa archive project to meet program requirements and 
- demonstrate skills development.
- Helped streamline repair processes and update procedures for support action consistency.
- Configured hardware, devices, and software to set up workstations for employees.
- Maintained servers and systems to keep networks fully operational during peak periods.
- Removed malware, ransomware, and other threats from laptops and desktop systems. 
-          
+                
+         Reviewed system and network performance to make proactive adjustments based on established IT 
+         policies.
+         Maintained over 3 current software licenses and patched applications to stay up-to-date with the latest 
+         features.
+         Responded to queries on phone, via email, or through the IT ticketing system.
+         Generated project status reports for upper management review, demonstrating proficiency in Orange 
+         Software.
+         Gathered and translated project requirements and collaboratively worked to define scope and 
+         milestones.
+         Collaborated with other interns on the Mombasa archive project to meet program requirements and 
+         demonstrate skills development.
+         Helped streamline repair processes and update procedures for support action consistency.
+         Configured hardware, devices, and software to set up workstations for employees.
+         Maintained servers and systems to keep networks fully operational during peak periods.
+         Removed malware, ransomware, and other threats from laptops and desktop systems. 
+                  
           `,
         
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
@@ -637,6 +641,22 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+          {
+          title: "Automation Expert",
+          company: "Giver Marketing Netwok",
+          company_url: "https://www.givermarketing.com/",
+          logo_path: "Giver_Marketing_Network.png",
+          duration: "Jun 2022 - Present",
+          location: "El Dorado Hills, CA 95762",
+          description:
+            `
+          • Developed and implemented automation strategies, enhancing efficiency and consistency across campaigns, leading to a 15% increase in outreach effectiveness within 6 months.
+          • Led a volunteer team in integrating CRM and marketing automation tools, streamlining lead generation and follow-up processes, resulting in a 20% increase in engagement rates.
+          • Conceptualized and executed a volunteer engagement tracking system, using automation to monitor and analyze interactions, increasing volunteer retention by 25%.
+          • Awarded the 'Innovative Solutions Award' for outstanding contributions to operational workflow optimization through automation within the volunteer community.
+               `,
+          color: "#4285F4",
+        },
         {
           title: "Web Developer Mentor",
           company: "eMobilis Mobile Tech",

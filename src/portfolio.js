@@ -226,9 +226,6 @@ const skills = {
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Experience hosting and managing websites",
         "⚡ Experience with Continuous Integration",
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
         "⚡ Proficient in cloud security best practices and compliance standards",
         "⚡ Skilled in cloud resource optimization for cost-effective solutions",
         "⚡ Adept in deploying scalable and resilient cloud infrastructure",
@@ -787,16 +784,16 @@ const projects = {
       ],
     },
        {
-      id: "3",
-      name: "Motorify",
-      url: "https://motorify.netlify.app/",
+      id: "6",
+      name: "Nurzee INC",
+      url: "https://blog.nurzee.com/",
       description:
-        "Booking cars website, you can filter cars from year, make and Model that you want to book or filter.",
+        "Nurzee currently has a vendor marketing system and a careCard on the market.",
       languages: [
         { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
         { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
         { name: "JavaScript", iconifyClass: "logos-javascript" },
-        { name: "React Js", iconifyClass: "logos-react" },
+        { name: "Wordpress", iconifyClass: "logos-wordpress" },
       ],
     },
     {

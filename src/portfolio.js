@@ -227,15 +227,15 @@ const skills = {
         "⚡ Experience hosting and managing websites",
         "⚡ Experience with Continuous Integration",
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites,"
-        "⚡ Experience with Continuous Integration,"
-        "⚡ Proficient in cloud security best practices and compliance standards,"
-        "⚡ Skilled in cloud resource optimization for cost-effective solutions,"
-        "⚡ Adept in deploying scalable and resilient cloud infrastructure,"
-        "⚡ Experienced in automating cloud deployments with tools like Terraform and Ansible,"
-        "⚡ Knowledgeable in containerization technologies like Docker and Kubernetes,"
-        "⚡ Proficient in monitoring, logging, and troubleshooting cloud environments,"
-        "⚡ Familiarity with cloud-native application development principles,"
+        "⚡ Experience hosting and managing websites",
+        "⚡ Experience with Continuous Integration",
+        "⚡ Proficient in cloud security best practices and compliance standards",
+        "⚡ Skilled in cloud resource optimization for cost-effective solutions",
+        "⚡ Adept in deploying scalable and resilient cloud infrastructure",
+        "⚡ Experienced in automating cloud deployments with tools like Terraform and Ansible",
+        "⚡ Knowledgeable in containerization technologies like Docker and Kubernetes",
+        "⚡ Proficient in monitoring, logging, and troubleshooting cloud environments",
+        "⚡ Familiarity with cloud-native application development principles",
       ],
       softwareSkills: [
         {

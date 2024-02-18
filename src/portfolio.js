@@ -36,10 +36,16 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive User Interfaces and Backend for web applications",
-        "⚡ Building responsive website front end using ReactJS, Wordpress, Wix",
-        "⚡ Creating application backend in Node, Laravel and Fast-API",
-        "⚡ Integration of third party services such as Firebase",
+          "⚡ Develop highly interactive User Interfaces and Backend for web applications",
+          "⚡ Building responsive website front end using ReactJS, Wordpress, Wix",
+          "⚡ Creating application backend in Node, Laravel and Fast-API",
+          "⚡ Integration of third party services such as Firebase",
+          "⚡ Implementing RESTful APIs and GraphQL for seamless data exchange",
+          "⚡ Utilizing Redux for efficient state management in complex applications",
+          "⚡ Ensuring cross-platform optimization for mobile and desktop",
+          "⚡ Implementing secure authentication mechanisms with JWT and OAuth",
+          "⚡ Conducting thorough unit and integration testing using Jest and Mocha",
+          "⚡ Optimizing application performance for maximum speed and scalability",
       ],
       softwareSkills: [
         {

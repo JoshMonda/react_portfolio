@@ -879,7 +879,7 @@ const projects = {
       ],
     },
     {
-      id: "4",
+      id: "1",
       name: "Belief Training Institute",
       url: "https://www.btiworld.org/",
       description:

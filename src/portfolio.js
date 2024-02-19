@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "Full-Stack Web Developer || Virtual Assistant || Automation Expert || Graphic Designer || Social Media Marketer || Content Writer.",
   resumeLink:
-    "https://drive.google.com/file/d/1OSHsW2snhSGB4Ds_2LqxKMXWHr9V2Klj/view?usp=sharing",
+    "https://drive.google.com/file/d/1hORV0-vgG6MM-09M43oi6tsW4WFiR_e4/view?usp=sharing",
   mail: "mailto:mondajoash43@gmail.com",
 };
 
@@ -871,7 +871,7 @@ const projects = {
     },
     {
       id: "15",
-      name: "Portfolio Website",
+      name: "More Projects on Github",
       url: "https://github.com/JoshMonda",
       description: "You are stalking it right now 😉",
       languages: [

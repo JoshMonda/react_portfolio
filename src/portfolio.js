@@ -783,8 +783,51 @@ const projects = {
         { name: "React Js", iconifyClass: "logos-react" },
       ],
     },
-       {
+
+  {
+      id: "4",
+      name: "Sentext Site",
+      url: "https://sentext.kingdomtech.us/",
+      description:
+        "How It Works : Our approach to providing text marketing services is geared around the needs of our business customers.",
+      languages: [
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Go High Level", iconifyClass: "go-high-level" },
+      ],
+    },
+
+      {
+      id: "5",
+      name: "TÉAQUA™",
+      url: "https://www.teaqua.us/",
+      description:
+        "Welcome to TéAqua™, where passion meets flavor in every cup. As tea enthusiasts, we take pride in our craft and are dedicated to providing the highest quality of custom-blended teas to tea lovers worldwide.",
+      languages: [
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Wix", iconifyClass: "logos-wix" },
+      ],
+    },
+    
+        {
       id: "6",
+      name: "Relationship Literacy",
+      url: "relationshipliteracy.org/",
+      description:
+        "",
+      languages: [
+        { name: "HTML5", iconifyClass: "vscode-icons:file-type-html" },
+        { name: "CSS3", iconifyClass: "vscode-icons:file-type-css" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Wix", iconifyClass: "logos-wix" },
+      ],
+    },
+    
+       {
+      id: "7",
       name: "Nurzee INC",
       url: "https://blog.nurzee.com/",
       description:
@@ -797,7 +840,7 @@ const projects = {
       ],
     },
     {
-      id: "4",
+      id: "8",
       name: "Pacific Nursing",
       url: "https://pacificnursing.tech/",
       description:
@@ -809,7 +852,7 @@ const projects = {
       ],
     },
     {
-      id: "5",
+      id: "9",
       name: "Notepad",
       url: "https://github.com/JoshMonda",
       description:
@@ -817,7 +860,7 @@ const projects = {
       languages: [{ name: "Python", iconifyClass: "logos-python" }],
     },
     {
-      id: "9",
+      id: "10",
       name: "Speedtest",
       url: "https://github.com/JoshMonda",
       description:
